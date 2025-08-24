@@ -1,0 +1,8 @@
+{
+    "workbench.editor.closeOnFileDelete": false,
+    "workbench.editor.dragToOpenWindow": false,
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-simpleBrowser.view": false
+    },
+    "workbench.editor.defaultBinaryEditor": ""
+}
